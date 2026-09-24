@@ -1,0 +1,8 @@
+Item,Amount,Treatment
+Bank statement ending balance,394250.0,
+Deposit in transit,7500.0,Add
+Outstanding checks,-5200.0,Less
+Bank service charge not posted,-125.0,Less
+Adjusted bank balance,396425.0,Calculated
+GL cash balance before adjustment,382450.0,Per trial balance
+Cash book items requiring review,13975.0,Difference to investigate

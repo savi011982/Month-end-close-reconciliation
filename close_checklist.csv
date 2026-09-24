@@ -1,0 +1,10 @@
+Close Area,Status,Comment
+Bank reconciliation,Completed,Difference requires follow-up before final sign-off
+AR reconciliation,Completed,No difference
+AP reconciliation,In progress,Accruals identified
+Prepaids,Completed,Monthly amortization recorded
+Fixed assets,Completed,Depreciation reviewed
+Deferred revenue,Completed,Subledger agrees to GL
+Accruals,In progress,4 accruals identified
+P&L variance review,Completed,Large variances documented
+Management reporting,Pending,Release after close adjustments

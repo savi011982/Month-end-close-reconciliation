@@ -1,0 +1,5 @@
+Accrual,Basis,Amount,Proposed Entry
+Accrued payroll,Payroll earned but paid next month,8200.0,Dr Payroll Expense / Cr Accrued Expenses
+Legal fees,December legal services not yet invoiced,4500.0,Dr Professional Fees / Cr Accrued Expenses
+Cloud hosting,December usage estimate,3100.0,Dr Cost of Revenue / Cr Accrued Expenses
+Utilities,December estimate,1650.0,Dr Rent & Facilities / Cr Accrued Expenses
