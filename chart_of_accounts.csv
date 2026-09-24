@@ -1,0 +1,21 @@
+Account,Account Name,Type
+1000,Cash - Operating,Asset
+1100,Accounts Receivable,Asset
+1200,Prepaid Insurance,Asset
+1300,Prepaid Software,Asset
+1500,Fixed Assets,Asset
+1590,Accumulated Depreciation,Contra Asset
+2000,Accounts Payable,Liability
+2100,Accrued Expenses,Liability
+2200,Deferred Revenue,Liability
+3000,Common Stock,Equity
+3100,Retained Earnings,Equity
+4000,Subscription Revenue,Revenue
+4100,Professional Services Revenue,Revenue
+5000,Cost of Revenue,Expense
+6100,Payroll Expense,Expense
+6200,Software Expense,Expense
+6300,Rent & Facilities,Expense
+6400,Professional Fees,Expense
+6500,Travel & Meals,Expense
+6600,Insurance Expense,Expense
